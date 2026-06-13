@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Dataset and zip files
+Dataset_BUSI_with_GT_Split/
+Dataset_BUSI_with_GT/
+*.zip
+
+# Results and models
+results/
+first_results/
+segmentation\ results/
+*.pth
