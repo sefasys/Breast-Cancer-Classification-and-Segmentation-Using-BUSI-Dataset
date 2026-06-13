@@ -1,4 +1,4 @@
-P.S.: It's for learning semantic segmentation. I learned how transfer learning mechanisms work.
+P.S.: It's for learning semantic segmentation. I learned how transfer learning mechanisms work. It's not the best version. There will be updates...
 
 # Breast Ultrasound Classification & Segmentation
 
