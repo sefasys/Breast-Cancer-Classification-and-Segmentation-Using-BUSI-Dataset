@@ -1,3 +1,5 @@
+P.S.: It's for learning semantic segmentation. I learned how transfer learning mechanisms work.
+
 # Breast Ultrasound Classification & Segmentation
 
 This repository contains a comprehensive deep learning pipeline for analyzing Breast Ultrasound Images (BUSI). It includes complete workflows for both image classification (Benign, Malignant, Normal) and semantic segmentation (Tumor vs. Background).
